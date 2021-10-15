@@ -13,7 +13,7 @@
         "ajtimepyro",
         "uploader"
     ],
-    "repository" : "https://github.com/AJTimePyro/MegaUploaderbot",
+    "repository" : "https://github.com/AJTimePyro/PdiskUploaderBot",
     "success_url" : "https://t.me/PdiskUploaderAJBot",
     "env" : {
         "BOT_TOKEN" : {
