@@ -1,0 +1,5 @@
+#Cache files
+__pycache__/
+
+#Session File
+PdiskUploader.session
