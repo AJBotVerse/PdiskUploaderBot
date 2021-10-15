@@ -29,7 +29,8 @@
             "description" : "You can find it from https://www.pdisk.net/use-api"
         },
         "MONGO_CON_STRING" : {
-            "description" : "Leave it empty."
+            "description" : "Leave it empty.",
+            "required" : false
         }
     },
     "stack" : "heroku-20",
