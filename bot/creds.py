@@ -13,5 +13,8 @@ api_hash = os.environ["API_HASH"]
 
 pdisk_api = os.environ["PDISK_API"]
 
-connection_string = os.environ["MONGO_CON_STRING"]
+try:
+    connection_string = os.environ["MONGO_CON_STRING"]
+except KeyError:
+    connection_string = None
 
