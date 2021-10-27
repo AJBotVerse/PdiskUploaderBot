@@ -4,11 +4,11 @@
 '''Bot Messages defined'''
 
 
-common_text = "\n\n<b><u>If you are facing any problem, so report at @AJPyroVerseGroup</u></b>"
+common_text = "\n\n<b><u>If you are facing any problem, so report at @kingspace_bot</u></b>"
 
 help_msg = f"<b>To use me, Just Send me any raw link which contain video, and I will upload it to Pdisk.</b>{common_text}"
 
-start_msg = f"<b>Hi, I am Pdisk_Uploader_Bot Created by @AJPyroVerse and My Developer is @AJTimePyro.</b>\n{help_msg}"
+start_msg = f"<b>Hi, I am Pdisk_Uploader_Bot Created by @moviezbarn and My Developer is @moviezbarn.</b>\n{help_msg}"
 
 not_joined_community = f"<b>To use this bot, you need to Join our Channel and Group.</b>{common_text}"
 
