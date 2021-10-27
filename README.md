@@ -1,7 +1,7 @@
 # PdiskUploaderBot
 
 This is the source code of [PdiskUploaderBot](http://t.me/roypdiskbot).
-And the developer of this bot is [AJTimePyro](https://t.me/Moviezbarn), His Telegram [Channel](http://t.me/Moviezbarn) & [Group](http://t.me/Moviezbarn).
+And the developer of this bot is [Roy](https://t.me/Moviezbarn), His Telegram [Channel](http://t.me/Moviezbarn) & [Group](http://t.me/Moviezbarn).
 
 You can use this source code in any way but you need to **give credit** to its
 Developer AJTimePyro.
