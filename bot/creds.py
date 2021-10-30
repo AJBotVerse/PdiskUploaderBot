@@ -5,11 +5,11 @@
 
 import os
 
-bot_token = os.environ["BOT_TOKEN"]
-
 api_id = os.environ["API_ID"]
 
 api_hash = os.environ["API_HASH"]
+
+bot_token = os.environ["BOT_TOKEN"]
 
 pdisk_api = os.environ["PDISK_API"]
 
